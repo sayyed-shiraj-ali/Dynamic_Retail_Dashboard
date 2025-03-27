@@ -1,7 +1,3 @@
-Here’s a comprehensive structure similar to the one in the [GitHub repository](https://github.com/sayyed-shiraj-ali/Dynamic-Retail-Dashboard), including the sample data and KPI table:
-
----
-
 # Dynamic Retail Dashboard
 
 ## Overview
